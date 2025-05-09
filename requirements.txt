@@ -1,6 +1,15 @@
+# Core
+streamlit==1.40.1
+
+# LangChain Ecosystem
 langchain==0.3.25
 langchain_groq==0.3.2
+
+# Database
 SQLAlchemy==2.0.34
-streamlit==1.40.1
-streamlit==1.29.0
-streamlit==1.37.1
+mysql-connector-python==8.3.0  # Required for MySQL
+sqlite3==2.6.0  # Python built-in but good to specify
+
+# Utilities
+python-dotenv==1.0.1
+typing-extensions==4.9.0
