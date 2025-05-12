@@ -2,6 +2,7 @@ streamlit
 langchain-core  
 langchain
 langchain-groq
+langchain-community
 SQLAlchemy
 mysql-connector-python
 python-dotenv
