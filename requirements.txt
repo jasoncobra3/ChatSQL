@@ -1,8 +1,8 @@
-streamlit==1.40.1
-langchain-core==0.1.33  
-langchain==0.3.25
-langchain-groq==0.3.2
-SQLAlchemy==2.0.34
-mysql-connector-python==8.3.0
-python-dotenv==1.0.1
-typing-extensions==4.9.0
+streamlit
+langchain-core  
+langchain
+langchain-groq
+SQLAlchemy
+mysql-connector-python
+python-dotenv
+typing-extensions
