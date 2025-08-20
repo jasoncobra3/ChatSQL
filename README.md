@@ -87,7 +87,7 @@ Dipesh  | DEVOPS        | A     | 35
 ##  🚀Run the App
    **Run the Script in Terminal**
    ```bash
-     python app.py
+     streamlit run app.py
    ```
 
 ---
